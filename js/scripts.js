@@ -1,10 +1,3 @@
-/* Template: Leno - Mobile App HTML Landing Page Template
-   Author: Inovatik
-   Created: Mar 2019
-   Description: Custom JS file
-*/
-
-
 (function($) {
     "use strict"; 
 	
